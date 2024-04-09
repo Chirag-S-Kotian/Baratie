@@ -32,6 +32,10 @@ To use the website:
 1. Clone the repository to your local machine.
 2. Open the `index.html` file in your web browser.
 
+## Website
+
+Visit the website: [The Baratie](https://baratie.netlify.app)
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug fixes, or improvements, feel free to open an issue or submit a pull request.

@@ -1,4 +1,5 @@
 
+
 # The Baratie - Food Recipe Website
 
 The Baratie is a food recipe website that allows users to browse various recipes provided by TheMealDB API. It provides users with the flexibility to search for specific recipes, explore random recipes for inspiration, and learn more about the website and its functionality.
